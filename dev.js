@@ -73,5 +73,5 @@ const colors = document
   });
 
 document.getElementById("question").addEventListener("click", function (event) {
-  window.location.href = "./question.html";
+  window.location.href = "./qa.html";
 });
